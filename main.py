@@ -9,4 +9,4 @@ for i in range(len(cogs)):
 
 
 
-client.run("OTE5NzQxOTg4MDM3ODUzMjQ1.YbaOeQ.0zWpow36tPvD73OZUknBpEl6afE")
+client.run("OTE5NzQxOTg4MDM3...YOUR bot token")
